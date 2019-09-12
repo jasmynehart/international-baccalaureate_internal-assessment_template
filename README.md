@@ -1,1 +1,1 @@
-# International Baccalaureate UInternal Assessment Template
+# International Baccalaureate Internal Assessment Template

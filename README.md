@@ -1,30 +1,38 @@
-# [Write your project name]
+# Peer Tutoring App
 
 ## Problem Question
-[write the question your project seeks to find a solution for]
+How can I use technology to improve the efficiency and accessibility of the BFS US Peer Tutoring Program?
 
 ### Project Description
-[write a paragraph describing your client, your client's problem, and the solution you plan to create with your project.]
+The students who use the BFS US Peer Tutoring Program are my clients. There are several aspects of the program that could be more efficient or accessible that I plan to remedy with this app made specifically for this program. Some of the issues I aim to fix include scheduling difficulties, confusion about how/where to apply, finding students for smaller jobs, and updates about sessions. To improve these conditions, I'm designing an app featuring scheduling, notifications, messaging, applications, and position openings. 
 
 ### Project Timeline
 
 #### Sep-Oct    (month 0-1)
-[create a bulleted list describing the parts of the project you plan to work on]
-* example bullet list item
+* plan out each aspect w/o code language
+* learn about apps
+* pseudocode/plan out aspects in code language
 
 #### Oct-Nov    (month 1-2)
-[create a bulleted list describing the parts of the project you plan to work on]
+* code account system
+* code schedule
+* code applications
 
 #### Nov-Dec    (month 2-1)
-[create a bulleted list describing the parts of the project you plan to work on]
+* code position openings
+* code messaging
+* code notifications
 
 #### Dec-Jan    (month 3-4)
-[create a bulleted list describing the parts of the project you plan to work on]
+* polish code aspects
+* style/graphic elements
 
 #### Jan-Feb    (month 4-5)
-[create a bulleted list describing the parts of the project you plan to work on]
+* test w/ students
+* fix code
+* fix graphic elements
 
 #### Feb-March  (month 5-6)
-
-
-
+* continue to test w/ students
+* fix code
+* be happy :)

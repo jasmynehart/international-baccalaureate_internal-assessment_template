@@ -105,7 +105,7 @@ The students who use the BFS US Peer Tutoring Program are my clients. There are 
 * ppl who are tutored can put up a question and they can answer 
 
 #### Do you have concerns?
-* 
+* that nobody's doing the program
 
 ### Fourth Student: Tutee
 

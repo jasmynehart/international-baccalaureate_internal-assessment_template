@@ -87,8 +87,26 @@ The students who use the BFS US Peer Tutoring Program are my clients. There are 
 
 ### Cyrah Joseph: Tutor
 
-Notes to come
+#### What would be beneficial about an app?
+* reminders
+* alerts
+* communicate info, tutor to tutee
+* who created the peer tutoring program
+* awareness (a lot of ppl hate email)
+
+#### What aspects of the program could/should an app support?
+* schedule
+* availabe tutors (tutee can choose)
+* tips
+* bios/users esp of tutors
+
+#### As a tutor, what would you like to see in this app?
+* evaluate you after each session, e.g. when you make diagrams, when you use visual, more hands on, etc
+* ppl who are tutored can put up a question and they can answer 
+
+#### Do you have concerns?
+* 
 
 ### Fourth Student: Tutee
 
-To be chosen, notes to come
+Notes to come

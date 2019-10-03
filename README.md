@@ -40,6 +40,9 @@ The students who use the BFS US Peer Tutoring Program are my clients. There are 
 ## Criterion A
 
 ### Scenario
+My clients are the participants in and leaders of Brooklyn Friends School’s Upper School Peer Tutoring Program. As one of the co-leaders, I am very invested in this program and any ways to enhance it and implement it more effectively within my school community. To represent the larger client base, I’ve selected four individuals to interview and consult as representatives: the two co-leaders, including myself, a tutor, and a tutee. Common threads throughout my conversations with client representatives in regards to what they would like to see in the app included effective communication, accessible applications and updates, and easy scheduling. My adviser is Tristan Angieri, my Computer Science teacher, because I feel that I can rely on them for structural advice as well as coding advice in terms of what will make this program the most effective. To aid my clients, I aim to create an app that has features that assist the leaders, tutors, and tutees with ease of access, communication, and information, so that I can best support the tutoring program and more effectively integrate it into the BFS community. In this app, I will provide scheduling abilities so that students can schedule sessions and so that there will be a record for the leaders of each meeting. To address communication, there will be the ability to reach out directly to other participants, as well as the leaders. Additionally, this app will be easy to use, thereby decreasing confusion around the program and allowing students to reach out for help when the reaching out step might be the hardest. 
+
+* lol can u be my adviser? i'm realizing i didn't ask u
 
 ## Interview
 

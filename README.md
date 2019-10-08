@@ -46,6 +46,7 @@ My clients are the participants in and leaders of Brooklyn Friends School’s Up
 
 ### Rationale
 Can I use a program like xCode? Should I use a different platform to be accessible to multiple devices? What other app building platforms are there? How do I make an accessible app without paying for anything?
+I could use Google's app maker because BFS and the Peer Tutoring Program both use many Google applications and that would make them easier to incorporate. 
 
 ## Interview
 

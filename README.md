@@ -44,6 +44,9 @@ My clients are the participants in and leaders of Brooklyn Friends School’s Up
 
 * lol can u be my adviser? i'm realizing i didn't ask u
 
+### Rationale
+Can I use a program like xCode? Should I use a different platform to be accessible to multiple devices? What other app building platforms are there? How do I make an accessible app without paying for anything?
+
 ## Interview
 
 ### Lizzy Guaba: Co-Leader

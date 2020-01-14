@@ -38,70 +38,12 @@ I plan to use Google Apps Scripts to code my IA so that I can easily integrate o
 
 ## Interview
 
-### Lizzy Guaba: Co-Leader
+### Rene Hart ~ Musician
 
-#### What would be beneficial about an app?
-* descriptions of services, ex writing center
-* easy application
-* notifications of changes/updates (to room, time, positions, etc)
-* scheduling
+#### What would you like to gain from this program?
 
-#### What aspects of the program could/should an app support?
-* communication, between leaders and participants & between students participating
-* advertisement
+#### As a working musician, what are some issues that you come across when communicating with venues/scheduling a tour?
 
-#### As a co-leader, what would you like to see in this app?
-* easy designation of tutors/tutees
-* notifications
+#### Describe issues that you have with programs you currently use to organize this data.
 
-#### Do you have concerns?
-* scheduling might be difficult/complicated (interface wise)
-
-### Jasmyne Hart: Co-Leader (self)
-
-#### What would be beneficial about an app?
-* easy communication/access for the digital generation
-* centralized place for any updates, applications, etc
-* automate/enhance tasks that leaders do manually
-
-#### What aspects of the program could/should an app support?
-* scheduling
-* notifications
-* open positions
-* communication between tutors/tutees
-
-#### As a co-leader, what would you like to see in this app?
-* intuitive interface
-* easy to use for participants
-* straightforward to manage from a leader's perspective
-
-#### Do you have concerns?
-* overestimating the amount of work that's possible
-* complicated interface
-* not actually helpful for the intended audience
-
-### Cyrah Joseph: Tutor
-
-#### What would be beneficial about an app?
-* reminders
-* alerts
-* communicate info, tutor to tutee
-* who created the peer tutoring program
-* awareness (a lot of ppl hate email)
-
-#### What aspects of the program could/should an app support?
-* schedule
-* availabe tutors (tutee can choose)
-* tips
-* bios/users esp of tutors
-
-#### As a tutor, what would you like to see in this app?
-* evaluate you after each session, e.g. when you make diagrams, when you use visual, more hands on, etc
-* ppl who are tutored can put up a question and they can answer 
-
-#### Do you have concerns?
-* that nobody's doing the program
-
-### Fourth Student: Tutee
-
-Notes to come
+#### How would you like to interact with/access this program? (e.g. pre-show, on the road, post-tour)

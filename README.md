@@ -26,12 +26,12 @@ This project will allow those managing tours of performing artists to collect, s
 * data storing/creation of new form
 
 #### Apr  (month 3)
-* 
+* tbd
 
 ## Criterion A
 
 ### Scenario
-
+My client is the working musician who is trying to manage a tour, specifically, venue information. This program is intended for use by musicians themselves, but would also be useful for non-musicians working on the tour (e.g. managers, etc). My advisor for this project would be Tristan Angieri because they have knowledge of both computer science and the music world. I aim to address the issue of unorganized, inefficient information collection, storage, and access in regards to venues on musical tours. Especially for a working musician who must also plan the musical aspects of the tour, coordinating with all parties involved can be overwhelming. I aim to create a system that will allow the user to streamline the information needed for individual tours/venues, gather information in an efficient way, store this information, and supply the information in an accessible way. 
 
 ### Rationale
 

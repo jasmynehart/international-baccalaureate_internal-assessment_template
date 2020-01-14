@@ -38,7 +38,7 @@ I plan to use Google Apps Scripts to code my IA so that I can easily integrate o
 
 ## Interview
 
-### Rene Hart ~ Musician
+### Rene Hart: Musician
 
 #### What would you like to gain from this program?
 
